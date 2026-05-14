@@ -1,7 +1,3 @@
-This fork contains a few edits. One is a fix for first come first serve tasks not being auto assigned daily.
-Second is a force rollover action. It resets completed tasks for the day so that they will be assigned again.
-Third is a new early reward bonus for completing a task before a certain time during the day.
-
 # Chores4Kids — Home Assistant Integration + Lovelace Card 🧹👧👦
 
 [![HACS](https://img.shields.io/badge/HACS-Default-blue.svg)](https://hacs.xyz)
